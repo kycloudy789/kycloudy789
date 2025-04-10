@@ -1,6 +1,6 @@
-# Hi, I'm Kycloudy!
+#  👋Hi, I'm Kycloudy!
 
-![Kycloudy Photo](./Kycloudy's photo.jpg)
+![Kycloudy Photo](./Kycloudy%27s%20photo.jpg)
 
 ---
 
