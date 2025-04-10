@@ -1,6 +1,6 @@
 # Hi, I'm Kycloudy!
 
-![Kycloudy Photo](C:\Users\panda\Pictures\02740b6b0e58a454fa28349d159fc4c.jpg)
+![Kycloudy Photo](./Kycloudy's photo.jpg)
 
 ---
 
