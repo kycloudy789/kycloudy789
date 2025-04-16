@@ -28,6 +28,7 @@ Hello! I'm **Kycloudy**, a passionate software developer and open-source enthusi
 ---
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
+>
 > "Heaven moves with ceaseless vigor; thus, the noble person strives tirelessly for self-improvement." – The Book of Changes
 
 
