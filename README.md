@@ -10,7 +10,7 @@ Hello! I'm **Kycloudy**, a passionate software developer and open-source enthusi
 
 - 🌱 I’m learning **AI**, **Python**, and **Quantum Computing**
 - 💬 Ask me about **Python**, **Machine Learning**
-- ⚡ Fun fact: I enjoy hiking and astrophotography in my free time
+- ⚡ Fun fact: I enjoy swimming, hiking and badminton in my free time
 
 ## 🛠️ Skills
 
@@ -28,5 +28,6 @@ Hello! I'm **Kycloudy**, a passionate software developer and open-source enthusi
 ---
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> "Heaven moves with ceaseless vigor; thus, the noble person strives tirelessly for self-improvement." – The Book of Changes
 
 
