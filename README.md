@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 
-Hello! I'm **Kycloudy**, a passionate software developer and open-source enthusiast. I love building scalable web applications, exploring new technologies, and contributing to the developer community.
+Hello! I'm **Kycloudy**,you can also call me **Xiao Bu** ,a passionate software developer and open-source enthusiast. I love building scalable web applications, conducting research on relevant deep learning algorithms and developing related AI applications.
 
 - 🌱 I’m learning **AI**, **Python**, and **Quantum Computing**
 - 💬 Ask me about **Python**, **Machine Learning**
