@@ -23,7 +23,7 @@ Hello! I'm **Kycloudy**,you can also call me **Xiao Bu** ,a passionate software 
 
 ## 📫 Contact Me
 
-- 📧 Email: [xiaobu913@163.com](mailto:xiaobu913@163.com)
+- 📧 Email: [xiaobu913@163.com](mailto:xiaobu913@163.com)；[xiaobu@bupt.edu.cn](mailto:xiaobu@bupt.edu.cn)
 
 ---
 
